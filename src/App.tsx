@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          BELAJAR REACT
+          BELAJAR REACT BERSAMA
         </a>
       </header>
     </div>
